@@ -35,4 +35,7 @@ class Analysis():
 
     def myfunction():
         print('Hello world')
+
+    def myfunction2():
+        print('hello world again')
         
